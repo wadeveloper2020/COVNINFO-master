@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginHorizCard">24dp</dimen>
+    <dimen name="marginVertiCard">10dp</dimen>
+    <dimen name="cardRadius">8dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="marginLisLinear">10dp</dimen>
+    <dimen name="marginBottomBetweenTextList">8dp</dimen>
+    <dimen name="paddingDetailIdn">12dp</dimen>
+    <dimen name="marginTopCv">30</dimen>
+    <dimen name="count_indicator">24sp</dimen>
+    <dimen name="imgindicator">25dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Made With Love
+  ~ Author @Moh Husni Mubaraq
+  ~ Not for Commercial Purpose
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@color/blueSecondary"
+        />
+    <corners
+        android:radius="50dp"/>
+    />
+</shape>
